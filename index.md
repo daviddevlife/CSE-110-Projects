@@ -5,7 +5,7 @@ Hi there! My name is David Chang. I like to listen to music in my spare time.
 ###### Dancing Queen ######
 The lyrics of ABBA - Dancing Queen:
 
-> You are the dancing queen | Young and sweet| Only seventeen
+> You are the dancing queen | Young and sweet | Only seventeen
 #### Programming ####
 I have knowledge in C/C++, which you can use `new` to create an object/array as dynamic memory. For instance: 
 ```
@@ -13,7 +13,7 @@ int * arr;
 arr = new int[9];
 ```
 
-Other things I like to do is watching [Netflix](https://www.netflix.com/) and browsing [TikTok](https://www.tiktok.com/en/). [View one of the songs I like](#dancing-queen).
+Other things I like to do is watching [Netflix](https://www.netflix.com/) and browsing [TikTok](https://www.tiktok.com/en/). [View the Dancing Queen section for the song I like](#dancing-queen).
 
 ### *Anime* ###
 
