@@ -20,7 +20,7 @@ Other things I like to do is watching [Netflix](https://www.netflix.com/) and br
 One of my favorite animes is Hunter x Hunter 
 ![Hunter x Hunter](https://cdn.vox-cdn.com/thumbor/Z_AkJJ0E7H2zcxBSoPZjJu870D4=/0x43:1366x726/fit-in/1200x600/cdn.vox-cdn.com/uploads/chorus_asset/file/22776029/EP_86_OP_Card.png)
 
-I also have a dog named [Luna](/IMG_3552.JPG). She's an amazing friend to be with.
+I also have a dog named [Luna](/IMG_3552.JPG). She's an amazing friend to be with. She's also hyper and is always looking forward to playing fetch.
 
 Adding on to the music section [here](#dancing-queen), my favorite songs currently are 
 - **24+25 by Ariana Grande**
