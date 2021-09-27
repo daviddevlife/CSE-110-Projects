@@ -1,3 +1,3 @@
 # CSE-110-Projects
 
-index.md
+https://daviddevlife.github.io/CSE-110-Projects/
