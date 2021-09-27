@@ -6,6 +6,7 @@ Hi there! My name is David Chang. I like to listen to music in my spare time.
 The lyrics of ABBA - Dancing Queen:
 
 > You are the dancing queen | Young and sweet | Only seventeen
+
 #### Programming ####
 I have knowledge in C/C++, which you can use `new` to create an object/array as dynamic memory. For instance: 
 ```
